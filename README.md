@@ -26,7 +26,7 @@ Este projeto Python visa simplificar e automatizar a pesquisa de dados empresari
    ```
    docker run -p 8080:8080 pesquisa-empresarial
    ```
-6. Abra o navegador e acesse http://localhost:8080 para acessar a interface do projeto.
+6. Abra o navegador e acesse http://localhost:8000/docs para acessar a interface FastAPI do projeto.
 7. Insira os filtros desejados e inicie a pesquisa.
 8. O relatório Excel será gerado automaticamente e estará disponível para download no navegador.
 
